@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AshSwing</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AshSwing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>ashswing</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 10:10:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 21 Jun 2020 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>为乐当及时，何能待来兹。</description>
+    </item>
+    
+    <item>
+      <title>25岁人生总结</title>
+      <link>http://localhost:1313/post/25%E5%B2%81%E4%BA%BA%E7%94%9F%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Thu, 25 Jun 2020 10:10:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/25%E5%B2%81%E4%BA%BA%E7%94%9F%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;假如能活一百岁的话，二十五岁的我，已然用掉了四分之一的光阴。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
